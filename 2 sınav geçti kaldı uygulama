@@ -11,11 +11,11 @@ public class Regue {
         ort = (sinav1 + sinav2) / 2;
         if (ort >= 50)
         {
-            System.out.println("2 sınavın ortalaması 50 sınıfı geçti.");
+            System.out.println("GEÇTİ");
         }
         else
         {
-           System.out.println("2 sınavın ortalaması 50 altı kaldı.");
+           System.out.println("KALDI");
         }
        }
     
