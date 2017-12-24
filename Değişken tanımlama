@@ -1,0 +1,17 @@
+public class Regue {
+
+
+    public static void main(String[] args) {
+        
+        // Değişken tanımlama
+         int x = 10;
+         String c = "Merhaba Dünya";
+        
+        // float daha az yer kaplar double daha fazla yer kaplar ...
+        
+         float pi = (float) 3.14;
+         double ps = 3.14;
+         
+       }
+    
+        }
