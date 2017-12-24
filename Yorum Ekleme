@@ -1,0 +1,15 @@
+public class Regue {
+
+
+    public static void main(String[] args) {
+    
+    // yorum ekleme başta çift slash eklenerek yapılır...
+    
+   
+        System.out.println("Merhaba Dünya !");
+        
+        
+        
+       }
+    
+        }
