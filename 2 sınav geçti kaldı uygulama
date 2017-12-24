@@ -1,0 +1,22 @@
+public class Regue {
+
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        int sinav1,sinav2,ort;
+        System.out.println("1.sınavı giriniz = ");
+        sinav1 = input.nextInt();
+        System.out.println("2.sınavı giriniz = ");
+        sinav2 = input.nextInt();
+        ort = (sinav1 + sinav2) / 2;
+        if (ort >= 50)
+        {
+            System.out.println("2 sınavın ortalaması 50 sınıfı geçti.");
+        }
+        else
+        {
+           System.out.println("2 sınavın ortalaması 50 altı kaldı.");
+        }
+       }
+    
+        }
