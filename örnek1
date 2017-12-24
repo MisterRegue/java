@@ -6,5 +6,5 @@
         //String isim = "Regue";
         //System.out.println("adım ="+ isim +" " + "pi sayısı değeri = "+ pi);
         //int c = 8,a = 2;
-        //int yenideger = (c % a);
-        //System.out.println(yenideger);
+        //int kalan = (c % a);
+        //System.out.println(kalan);
